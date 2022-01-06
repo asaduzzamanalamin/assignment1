@@ -138,3 +138,50 @@ body{
 .work22{
     color:springgreen;
 }
+.work23{
+    display:flex;
+    margin-top:80px;
+}
+.work24{
+    color:red;
+    margin-left:70px;
+}
+.work25{
+    color:cyan;
+}
+.work26{
+    color:whitesmoke;
+    width:60%;
+    margin-left:70px;
+    text-align:justify;
+}
+.work27{
+    width:500%;
+    border-radius:10px;
+  
+}
+.work28{
+    margin-right:30%;
+    margin-top:80px;
+}
+.work29{
+    text-decoration:none;
+    background-image:linear-gradient(cyan,blue);
+    color:tomato;
+    padding:7px;
+    border-radius:10px;
+  
+}
+.work30{
+    margin-left:60px;
+}
+.work31{
+    background-color:gray;
+    text-align: center;
+    font-style: italic;
+}
+.work32{
+    color:red;
+}
+  
+    
