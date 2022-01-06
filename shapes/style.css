@@ -51,3 +51,90 @@ body{
 .work9{
     color:tomato;
 }
+.work10{
+    
+    width:40%;
+}
+.batting{
+    background-color:thistle;
+    padding:10px;
+    margin:10px;
+    margin-left: 50px;
+    text-align:justify;
+    border-radius:18px;
+    width:50%;
+    box-shadow: 10px 10px 10px pink;
+
+}
+.bowlinng{
+    background-color:whitesmoke;
+    padding:10px;
+    margin:10px;
+    text-align:justify;
+    border-radius:18px;
+    width:50%;
+    box-shadow:10px 10px 10px gray;
+}
+.bpl{
+    background-color: silver;
+    padding:10px;
+    margin:10px;
+    margin-right:50px;
+    text-align:justify;
+    border-radius:18px;
+    width:50%;
+    box-shadow:10px 10px 10px white;
+
+}
+.work11{
+    display:flex;
+    
+}
+.work12{
+    color:violet;
+}
+.work13{
+    margin-left:50px; 
+}
+.work14{
+    
+    display:flex;
+    margin-top: 60px;
+  
+   
+    
+}
+.work15{
+    color:cyan;
+
+}
+.work16{
+    border:2px solid;
+    border-radius:15px;
+    width:60%;
+    margin-left:90px;
+    background-image:url(shape-1.png);
+    background-position: left;
+}
+.work17{
+    color:whitesmoke;
+}
+.work18{
+    width:50%;
+    text-align:justify;
+}
+.work19{
+    background-image:radial-gradient(tomato,orange,red);
+    text-decoration:none;
+    padding:7px;
+    border-radius:10px;
+}
+.work20{
+    
+}
+.work21{
+    color:red;
+}
+.work22{
+    color:springgreen;
+}
