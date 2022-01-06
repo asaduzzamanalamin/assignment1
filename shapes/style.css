@@ -96,7 +96,7 @@ body{
     color:violet;
 }
 .work13{
-    margin-left:50px; 
+    margin-left:100px; 
 }
 .work14{
     
@@ -175,7 +175,7 @@ body{
   
 }
 .work30{
-    margin-left:60px;
+    margin-left:70px;
 }
 .work31{
     background-color:gray;
@@ -191,4 +191,16 @@ body{
     border-image:linear-gradient(tomato,orange,red,blue,black);
     border-image-slice:1;
 }
-    
+.work34{
+    margin-top:100px;
+    }
+    .work35{
+        margin-left: 400px;
+
+    }
+    .work36{
+        color:tomato;
+    }
+    .work37{
+        color:rgb(16, 128, 240);
+    }
